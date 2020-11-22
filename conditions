@@ -1,0 +1,52 @@
+Q1:12
+if it is hot
+    it's a hot day
+    Drink plenty of water
+otherwise if it is cold
+    it's a cold day
+    Wear warm clothes
+otherwise
+    it's a lovely day
+ ============================================
+ Q2 :13
+ Price of house 1M$
+ if buyer has good credit,
+   they need to put down %10
+ otherwise
+   they need to put down %20
+ Print the down payment
+ ==========================================
+Q3:14 And
+if applicant has high income And good credit
+Eligible for loan
+===========================================
+Q4: 15 Or
+if applicant has high income OR good credit
+Eligible for loan
+==============================================
+Q5: 16 Not
+if applicant has high income And doesn't have a criminal record
+Eligible for loan
+===============================================
+Q6: 17
+if temperature is greater than 30
+   it 's a hot day
+otherwise if it's less than 10
+   it's a cold day
+otherwise
+ it's neither hot or cold
+ ==============================================
+ Q7: 18
+ if name is less than 3 characters long
+ name must be at least 3 characters
+ otherwise if it's more than 20 characters long
+ name can be a maximum of 20 characters
+ otherwise
+ name looks good!
+ ================================================
+
+
+
+
+
+
