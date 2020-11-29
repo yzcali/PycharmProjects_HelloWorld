@@ -12,3 +12,4 @@ path = Path("emails")
 path = Path()
 for file in path.glob('*.if.py'):  # use glob('*') for every files
     print(file)                    # app.12.if.py is found by glob('*.if.py')
+
