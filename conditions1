@@ -1,0 +1,33 @@
+app.50.automation.py
+#machine learning
+we use it for
+_self-driving cars
+_robotics
+_language processing
+_vision processing
+_forecasting stock market trends
+_the games
+
+#steps
+1 import the  data
+2 clean the data
+3 split the data into training/ test sets
+   for example :
+   if you have 1000 pics of cats and dogs ;
+   we can reserve 80% for training ;
+   and another 20% for testing
+4 create a model
+5 train the model
+6 make predictions
+7 evaluate and improve
+=================================
+Libraries and tools :
+1 Numpy : provides a multidimensional array and very popular
+2 pandas : is a data analysis library that provides a concept data frame. Data frame is a two dimensional data structure
+           similar to an excel spreadsheet.so we have rows and columns.
+3 MatPlotLib : is a two dimensional plotting library for creating graphs on plots.
+4 Scikit-Learn : we use it machine learning neural networks and common algorithm like decision trees.
+  now , we use the jupyter...
+==================================
+
+
